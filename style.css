@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+body {
+	font-family: Pixelify Sans;
+	display: grid;
+	place-content: center;
+	min-height: 100vh;
+	margin: 0;
+	text-align: left;
+	color:lightblue ;
+	background:black ;
+}
+button {
+	padding: 0.6rem 1.2rem;
+	font-size: 1rem;
+	border-radius: 12px;
+	border: 0;
+	background: #ff2d49;
+	color: blue;
+	cursor: pointer;
+}
+img {
+	width: 200px
+}
